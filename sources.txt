@@ -1,0 +1,484 @@
+Avant-propos 
+1 : https://www.franceculture.fr/emissions/la-vie-numerique/banlieue-deep-web-et-dark-net-meme-combat   
+
+
+00.  Les mythes d’Internet 
+1 : http://www.snopes.com/quotes/internet.asp
+2 : Françoise Levie, L’homme qui voulait classer le monde . Paul Otlet et le Mundaneum, Les Impressions nouvelles, 2006. 
+3 : http://archive.org/stream/OtletTraitDocumentationUgent#page/n555/mode/1up
+4 : https://interstices.info/jcms/c_16645/louis-pouzin-la-tete-dans-les-reseaux 
+5 : Slava Gerovitch, From Newspeak to Cyberspeak: A History of Soviet Cybernetics, MIT Press, 2002.
+6 : https://twitter.com/jjarmoc/status/789637654711267328
+7 : http://dylan.tweney.com/2001/09/26/internet-emerges-as-the-most-reliable-way-tocommunicate/
+8 : http://www.businessinsider.fr/internet-est-reellement-controle-par-14-personnes-quidetiennent-7-cles-secretes/ 
+9 : http://motherboard.vice.com/fr/read/le-controle-dinternet-est-entre-les-mains-de-14personnes 
+10 : http://www.icann.org/tr/french.html 
+11 : http://www.businessinsider.fr/internet-est-reellement-controle-par-14-personnes-quidetiennent-7-cles-secretes/
+12 : https://www.ietf.org/
+13 : https://www.afnic.fr/fr/l-afnic-en-bref/actualites/actualites-generales/7444/show/securiser-les-communications-sur-internet-de-bout-en-bout-avec-le-protocole-dane.html
+14 : http://www.bortzmeyer.org/les-quatorze-qui-controlent-tout.html
+15 : http://www.slate.fr/story/122943/video-internet-cia-jeu-video-controler-esprits
+
+
+
+01.  Le côté obscur de la force :  piratages et malveillance connectée
+1 : https://nvd.nist.gov/visualizations/cwe-over-time
+2 : https://fr.wikipedia.org/wiki/Attaque_de_l%27homme_du_milieu
+3 : https://blog.qualys.com/ssllabs/2013/10/31/apple-enabled-beast-mitigations-in-os-x109-mavericks
+4 : https://blog.qualys.com/ssllabs/2013/09/10/is-beast-still-a-threat ; https://threatpost.com/apple-turns-on-safari-beast-attack-nitigation-by-default-in-os-xnavericks/102804/ 
+5 : http://www.codenomicon.com/news/pressrelease/2014/04/09/codenomicon_advising_internet_community_on_serious_internet_vulnerability_dubbed_heartbleed.html
+6 : http://heartbleed.com/
+7 : https://krebsonsecurity.com/2013/08/firefox-zero-day-used-in-child-porn-hunt/
+8 : https://www.exploit-db.com/
+9 : https://www.nextinpact.com/news/101344-mysql-chercheur-devoile-deux-failles-0day-critiques.htm
+10 : http://www.zdnet.fr/actualites/et-si-l-iot-etait-une-mine-pour-la-securiteinformatique-39840136.htm ; http://www.zdnet.fr/actualites/shodan-un-moteur-derecherche-reve-pour-cybercriminels-et-les-responsables-iot-39842658.htm
+11 : http://www.zerodayinitiative.com/about/
+12 : http://www.nytimes.com/2013/07/14/world/europe/nations-buying-as-hackers-sellcomputer-flaws.html 
+13 : https://tsyrklevich.net/2015/07/22/hacking-team-0day-market/
+14 : https://arstechnica.co.uk/security/2015/07/how-a-russian-hacker-made-45000-sellinga-zero-day-flash-exploit-to-hacking-team/
+15 : https://www.zerodium.com/ios9.html
+16 : http://www.zdnet.fr/actualites/la-nsa-achete-des-vulnerabilites-y-compris-en-francelegalement-39794121.htm ; Vupen a fini par fermer ses bureaux en France. Pour se faire une idée des prix, en 2012, une 0day se vendait entre 5 000 et 250 000 dollars. 
+17 : Pour une description détaillée, même si elle commence à dater un peu, voir Ablon L., Libicki M. C., & Golay A. A., Markets for Cybercrime Tools and Stolen Data: Hackers’ Bazaar, Rand Corporation, 2014. http://www.rand.org/pubs/research_reports/RR610.html
+18 : https://www.youtube.com/watch?v=b1iyQFcBCsI 
+19 : http://www.zdnet.fr/actualites/comment-corriger-la-derniere-faille-0-day-de-linux-etandroid-39831500.htm
+20 : http://www.vox.com/2016/8/24/12615258/nsa-security-breach-hoard
+21 : https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zerodays/
+22 : https://techcrunch.com/2017/01/31/googles-bug-bounty-2016/
+23 : Bellovin S. M., Blaze M., Clark S., & Landau S. Lawful hacking: Using existing vulnerabilities for wiretapping on the Internet, Nw. J. Tech. & Intell. Prop., 12, i, 2014. 
+24 : https://www.nextinpact.com/news/101945-au-journal-officiel-fichier-biometrique-60millions-gens-honnetes.htm
+25 : http://blog.erratasec.com/2015/05/this-is-how-we-get-ants.html
+26 : http://www.liberation.fr/futurs/2017/02/21/le-megafichier-etendu-au-pas-decharge_1549968
+27 : https://medium.com/@espringe/amazon-s-customer-service-backdoorbe375b3428c4#.jvpbvwsj9
+28 : http://money.cnn.com/2016/04/22/technology/facebook-twitter-phishing-scams/
+29 : Voir ces exemples : https://heimdalsecurity.com/blog/wp-content/uploads/Phishingexample-Amazon-Prime-22-12-2015.png (Amazon Premier) ; le Trésor public français https://www.francebleu.fr/infos/economie-social/le-tresor-public-met-en-gardecontre-des-faux-mails-de-remboursements-d-impots-1452595387 ; http://www.rtl.fr/culture/futur/une-nouvelle-arnaque-au-phishing-sur-gmail-comment-s-enproteger-7786848043 (Gmail) ; http://www.rtl.fr/actu/conso/faux-mails-de-l-assurancemaladie-comment-se-proteger-du-phishing-7773820806 (Assurance maladie en France) ; https://particulier.edf.fr/fr/accueil/aide-et-contact/aide/arnaque-et-phishing.html (EDF); etc. 
+30 : http://www.zonebourse.com/VINCI-4725/actualite/Vinci-Un-canular-a-18-en-7minutes-23443531/
+31 : https://twitter.com/FranckMorelZB/status/801099935080910848
+32 : http://www.liberation.fr/futurs/2011/03/07/le-ministere-de-l-economie-et-desfinances-victime-d-une-attaque-informatique_719808
+33 : https://www.ssi.gouv.fr/particulier/principales-menaces/espionnage/attaque-parhameconnage-cible-spearfishing/
+34 : https://www.bleepingcomputer.com/news/security/jigsaw-ransomware-decryptedwill-delete-your-files-until-you-pay-the-ransom/
+35 : https://krebsonsecurity.com/2012/08/inside-a-reveton-ransomware-operation/
+36 : https://bits.blogs.nytimes.com/2014/08/22/android-phones-hit-byransomware/ 
+37 : https://www.bleepingcomputer.com/news/security/new-scheme-spread-popcorn-timeransomware-get-chance-of-free-decryption-key/
+38 : https://www.bleepingcomputer.com/news/security/koolova-ransomware-decrypts-forfree-if-you-read-two-articles-about-ransomware/
+39 : https://blog.barkly.com/phishing-statistics-2016
+40 : http://phishme.com/phishing-ransomware-threats-soared-q1-2016/
+41 : http://arstechnica.com/security/2016/02/locky-crypto-ransomware-rides-in-onmalicious-word-document-macro/
+42 : http://arstechnica.com/security/2016/03/big-name-sites-hit-by-rash-of-malicious-adsspreading-crypto-ransomware/
+43 : http://www.lemonde.fr/les-decodeurs/article/2016/12/30/espionnage-pendant-lapresidentielle-ce-que-les-etats-unis-reprochent-a-moscou_5055689_4355770.html ; http://www.lepoint.fr/monde/la-russie-a-t-elle-vraiment-hacke-l-election-americaine-30-12-2016-2093683_24.php
+44 : http://www.chicagotribune.com/news/local/politics/ct-illinois-republican-party-emailhack-met-1212-20161211-story.html
+45 : Voir par exemple cette actu http://www.nytimes.com/2016/12/29/world/europe/howrussia-recruited-elite-hackers-for-its-cyberwar.html
+46 : https://threatconnect.com/blog/state-board-election-rabbit-hole/
+47 : https://chronopay.com/blog/2016/09/15/chronopay-pomogaet-king-servers-com/
+48 : http://www.reuters.com/article/us-usa-cyber-democrats-reconstruct-idUSKCN10E09H
+49 : https://www.secureworks.com/research/threat-group-4127-targets-hillary-clintonpresidential-campaign
+50 : https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+51 : http://www.threatgeek.com/2016/06/dnc_update.html
+52 : https://wikileaks.org/podesta-emails/emailid/34899
+53 : https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-apt28.pdf
+54 : https://www.slideshare.net/MaliciaRogue/contes-legendesru-net16mars2015
+55 : http://www.politico.com/agenda/story/2016/10/the-growing-threat-of-cybermercenaries-000221
+56 : https://www.us-cert.gov/security-publications/GRIZZLY-STEPPE-Russian-MaliciousCyber-Activity
+57 : https://www.dhs.gov/news/2016/10/07/joint-statement-department-homeland-securityand-office-director-national
+58 : https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
+59 : https://www.us-cert.gov/sites/default/files/publications/JAR-16-20296A.csv
+60 : http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
+61 : https://www.us-cert.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf 
+62 : http://de.reuters.com/article/deutschland-russland-cyberangriff-idDEKCN0Y41D2
+63 : https://twitter.com/RidT/status/751325844002529280
+64 : https://www.us-cert.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
+65 : https://www.senat.fr/compte-rendu-commissions/20170130/etr.htm ; Social Media and Fake News in the 2016 Election http://web.stanford.edu/~gentzkow/research/fakenews.pdf
+66 : https://medium.com/@maliciarogue/la-bulle-algorithmique-cache-la-for%C3%AAtdes-int%C3%A9r%C3%AAts-financiers-c5626cffa66#.p8o3xp96p ; https://reflets.info/comment-la-cybersecurite-pourrait-sinviter-a-la-presidentielle-de-2017/
+67 : https://www.nytimes.com/2016/11/25/us/politics/hacking-russia-election-fears-barackobama-donald-trump.html?_r=0 
+68 : https://www.schneier.com/crypto-gram/archives/2000/0515.html#1
+69 : http://googlepublicpolicy.blogspot.co.uk/2012/07/breaking-borders-for-freeexpression.html 70 : http://www.slate.com/blogs/future_tense/2012/07/25/finspy_trojan_from_gamma_group_may_have_been_used_against_bahraini_activists_says_report_.html
+71 : https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/
+72 : http://www.slate.com/blogs/future_tense/2012/08/20/moroccan_website_mamfakinch_targeted_by_government_grade_spyware_from_hacking_team_.html 
+73 : https://citizenlab.org/2012/10/backdoors-are-forever-hacking-team-and-the-targetingof-dissent/  74 : https://privacyinternational.atavist.com/theireyesonme  
+75 : http://reseau.echelon.free.fr/reseau.echelon/satellites.htm
+76 : http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/all/1
+77 : http://www.lemonde.fr/technologies/article/2013/08/23/les-cables-sous-marins-clede-voute-de-la-cybersurveillance_3465101_651865.html
+78 : https://www.justice.gov/archive/ll/highlights.htm
+79 : https://www.wired.com/2010/08/nsl-gag-order-lifted/
+80 : http://www.washingtontimes.com/news/2004/may/28/20040528-122605-9267r/?page=all
+81 : https://www.technologyreview.com/s/405707/the-total-information-awareness-projectlives-on/
+82 : http://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-withoutcourts.html
+83 : http://www.nysd.uscourts.gov/rulings/04CV2614_Opinion_092904.pdf
+84 : http://www.aclu.org/safefree/nationalsecurityletters/31580prs20070906.html
+85 : https://web.archive.org/web/20071106074840/http://www.aclu.org/safefree/nationalsecurityletters/31580prs20070906.html 
+86 : https://www.techdirt.com/articles/20150427/11042430811/nsas-stellar-wind-program-was-almost-completely-useless-hidden-fisa-court-nsa-fbi.shtml
+87 : http://www.democrats.com/bush-impeachment-poll-2
+88 : http://www.pbs.org/wgbh/frontline/film/united-states-of-secrets/transcript/
+89 : https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court#Criticism 
+90 : Les révélations de The Intercept https://theintercept.com/2014/05/19/data-piratescaribbean-nsa-recording-every-cell-phone-call-bahamas/ ; résumé en français http://www.france24.com/fr/20140520-nsa-bahamas-portable-ecoute-enregistrement-shebab-terrorisme-paradis-fiscal-espionnage-snowden 
+91 : http://www.afr.com/p/technology/interview_transcript_former_head_51yP0Cu1AQGUCs7WAC9ZVN 
+92 : http://www.nytimes.com/2014/09/17/opinion/israels-nsa-scandal.html?_r=1
+93 : http://www.nytimes.com/2014/09/13/world/middleeast/elite-israeli-officers-decrytreatment-of-palestinians.html?_r=0
+94 : http://www.huffingtonpost.com/2013/11/26/nsa-porn-muslims_n_4346128.html
+95 : https://mic.com/articles/50459/8-whistleblowers-charged-with-violating-theespionage-act-under-obama#.9rAHcsE6b
+96 : http://www.politifact.com/punditfact/statements/2014/jan/10/jake-tapper/cnns-tapperobama-has-used-espionage-act-more-all-/
+97 : http://www.defenseone.com/business/2013/07/obama-whistleblower-witchhunt-wontwork-DOD/67598/
+98 : http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codessecurity En français : http://www.lemonde.fr/technologies/article/2013/09/05/cybersurveillance-la-nsa-a-contourne-les-garde-fous-qui-protegent-lesdonnees_3472159_651865.html 
+99 : https://citizenlab.org/2013/07/planet-blue-coat-redux/
+100 : https://www.netsweeper.com/products/content-filtering/
+101 : https://www.forbes.com/sites/thomasbrewster/2016/10/25/procera-francisco-partners-turkey-surveillance-erdogan/#2e15d1443457 
+102 : https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/
+103 : https://theintercept.com/2015/07/01/nsas-google-worlds-private-communications/
+104 : http://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+105 : https://www.tbb.org.tr/en/banks-and-banking-sector-information/statistical-reports/20
+106 : https://www.forbes.com/sites/thomasbrewster/2016/05/31/ability-unlimitedspy-system-ulin-ss7/#3c13a96063fa ; https://www.forbes.com/sites/thomasbrewster/2016/02/11/nypd-stingrays-all-over-new-york/#13e981d82d84 
+107 : http://www.interceptors.com/ability-script.pdf
+108 : http://www.wassenaar.org/
+109 : http://www.international.gc.ca/controls-controles/report-rapports/2015.aspx?lang=eng
+110 : http://www.sviluppoeconomico.gov.it/index.php/it/component/content/article?id=2022475
+111 : http://www.timesofisrael.com/israeli-government-okayed-sale-of-spyware-thatexploits-iphones/
+112 : https://blog.imirhil.fr/2017/02/21/logiciel-libre-gouvernance-ethique.html
+113 : http://www3.epa.gov/otaq/cert/documents/vw-nov-caa-09-18-15.pdf
+114 : http://www.bloomberg.com/news/articles/2015-09-19/vw-clean-diesel-schemeexposed-as-u-s-weighs-criminal-charges
+115 : http://www.volkswagenag.com/content/vwcorp/info_center/en/news/2015/09/Ad_hoc_US.html 
+116 : http://www3.epa.gov/otaq/standards/light-duty/tier2stds.htm
+117 : http://www.dieselforum.org/about-clean-diesel/what-is-clean-diesel 
+118 : http://www.theicct.org/sites/default/files/publications/ICCT_PEMS-study_dieselcars_20141013.pdf  
+119 : http://www.nytimes.com/2015/09/21/business/international/volkswagen-chiefapologizes-for-breach-of-trust-after-recall.html 
+120 : https://www.wired.com/2015/09/epa-opposes-rules-couldve-exposed-vws-cheating/ 
+121 : http://www.lemagit.fr/tribune/Laffaire-Volkswagen-Un-plaidoyer-pour-le-logiciel-libre ; http://www.toolinux.com/L-affaire-Volkswagen  
+122 : https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/  
+123 : https://www.wired.com/2015/08/researchers-hacked-model-s-teslas-already/  
+124 : http://www.pcworld.com/article/3012220/security/internet-connected-hello-barbiedoll-can-be-hacked.html 
+125 : http://fusion.net/story/192189/internet-connected-baby-monitors-trivial-to-hack/  
+126 : http://www.theregister.co.uk/2015/08/24/smart_fridge_security_fubar/  
+127 : https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/ 
+128 : https://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homeshack/#57668e47e426  
+129 : http://www.theregister.co.uk/2016/10/25/medsec_vs_st_jude_indy_pentester_report_lands/ 130 : http://www.vocativ.com/358530/smart-dildo-company-sued-for-tracking-users-habits/ 
+131 : http://observatoire-du-vote.eu/?page_id=38  
+132 : http://oumph.free.fr/textes/vote_electronique_issy.html  
+133 : http://cdst.revues.org/326  
+134 : https://www.vice.com/fr/article/ce-hackeur-canadien-divulgue-les-infos-personnellesdes-racistes-d-internet  
+135 : http://rue89.nouvelobs.com/2014/08/14/vengeance-dun-pseudo-hacker-contre-rue89vire-tragique-254205  
+136 : http://www.leparisien.fr/yvelines-78/mantes-la-ville-une-elue-d-opposition-victime-dun-swatting-12-03-2015-4597789.php  
+137 : http://www.europalestine.com/spip.php?article10749 ; http://www.ujfp.org/spip.php?article3966
+138 : https://www.nextinpact.com/news/98208-les-sanctions-contre-revenge-porn-porteesa-deux-ans-prison-et-60-000-euros-d-amende.htm 
+139 : http://europe.newsweek.com/revenge-porn-italy-tiziana-cantone-nightclub-rapevideo-499292?rm=eu 
+
+
+02. Les bons, les brutes et les Anonymous
+1 : https://fr.wikipedia.org/wiki/Leet_speak
+2 : https://encyclopediadramatica.se/Main_Page
+3 : https://events.ccc.de
+4 : http://www.bbc.com/news/technology-10554538
+5 : https://fr.wikipedia.org/wiki/Steven_Levy
+6 : http://blog.historyofphonephreaking.org/
+7 : http://www.2600.com/
+8 : https://fr.wikipedia.org/wiki/Hackers
+9 : http://www.cs.indiana.edu/docproject/bdgtti/bdgtti_toc.html#SEC57
+10 : http://www.cs.indiana.edu/docproject/bdgtti/bdgtti_8.html
+11 : https://w2.eff.org/Net_culture/Net_info/EFF_Net_Guide/EEGTTI_HTML/eeg_91.html
+12 : news:alt.fan.warlord
+13 : Voir par exemple page 391 de The Johns Hopkins Guide to Digital Media ou https://en.wikipedia.org/wiki/Netochka_Nezvanova_(author). 
+14 : http://www.weirdcrap.com/recreational/bricefq1.htm
+15 : http://www.catb.org/jargon/html/B/B1FF.html
+16 : http://www.wired.com/1994/OS/alt.tes/class
+17 : https://www.youtube.com/watch?v=RFjU8bZR19A
+18 : https://www.youtube.com/watch?v=DNO6G4ApJQY
+19 : http://www.rsr.ch/#/la-1ere/programmes/on-en-parle/3058588-le-troll-la-bete-noiredu-net.html
+20 : http://www.ibls.com/internet_law_news_portal_view.aspx?s=latestnews&id=1972
+21 : http://blog.wired.com/27bstroke6/2008/01/anonymous-attac.html
+22 : https://upload.wikimedia.org/wikipedia/commons/7/73/Message_to_Scientology.ogv
+23 : http://www.motherjones.com/mojo/2008/09/sarah-palins-secret-emails
+24 : http://sunshinereview.org/index.php/Alaska_Public_Records_Act
+25 : http://machinist.salon.com/blog/2008/09/15/palin_emails/
+26 : http://arstechnica.com/tech-policy/2008/09/palins-e-mail-habits-come-under-fire/
+27 : http://www.motherjones.com/politics/2011/06/sarah-palin-email-saga
+28 : https://www.wired.com/2008/09/palin-e-mail-ha/
+29 : http://gawker.com/5051193/sarah-palins-personal-emails
+30 : https://wikileaks.org/wiki/VP_contender_Sarah_Palin_hacked
+31 : http://www.slate.com/articles/technology/technology/2008/09/hacking_sarah_palin.html
+32 : http://www.memphisflyer.com/JacksonBaker/archives/2013/07/25/david-kernell-is-outfrom-under
+33 : http://thephoenix.com/Boston/News/70055-Photos-Guy-Fawkes-Day/
+34 : http://blogs.mediapart.fr/edition/club-acte-2/article/110211/les-sociabilites-neuvesdes-communautes-dinformation
+35 : http://knowyourmeme.com/memes/it-s-over-9000
+36 : http://blogs.suntimes.com/oprah/2008/09/oprah_winfrey_goes_after_inter.html
+37 : http://ireport.cnn.com/docs/DOC-93559 ; https://www.reddit.com/r/funny/comments/72g7t/oprah_gets_trolled_by_anonymous_oprah_vs_over/ 
+38 : http://www.liberation.fr/ecrans/2010/09/20/pedobear-la-chasse-a-l-ours-estouverte_954765  
+39 : http://knowyourmeme.com/memes/events/over-9000-penises
+40 : http://www.liberation.fr/ecrans/2009/07/22/la-pedophilie-sur-internet-encore-instrumentalisee_958768?page=article 
+41 : http://www.guardian.co.uk/media/2012/jun/12/how-to-deal-with-trolls
+42 : http://archive.wikiwix.com/cache/?url=http://news.ninemsn.com.au/technology/827036/internet-underground-takes-on-iran 
+43 : http://www.abc.net.au/news/stories/2009/09/10/2681642.htm  
+44 : http://news.bbc.co.uk/2/hi/uk_news/8061979.stm  
+45 : http://legifrance.gouv.fr/affichTexte.do;?cidTexte=JORFTEXT000021573619&dateTexte=vig  46 : http://www.liberation.fr/france-archive/2009/04/10/le-ps-ruse-et-coince-hadopi-a-lassemblee_559240  
+47 : https://yro.slashdot.org/story/04/07/27/129219/patriot-act-used-to-enforce-copyrightlaw ; https://www.techdirt.com/articles/20100129/0630057974.shtml 
+48 : http://www.indiantelevision.com/aac/y2k10/aac589.php
+49 : https://torrentfreak.com/anti-piracy-outfit-threatens-to-dos-uncooperative-torrentsites-100905/ 
+50 : http://www.theregister.co.uk/2010/09/20/4chan_ddos_mpaa_riaa/
+51 : https://torrentfreak.com/images/mpaaddos.jpg  
+52 : http://torrentfreak.com/4chan-to-ddos-riaa-next-is-this-the-protest-of-thefuture-100919/
+53 : http://www.pandasecurity.com/mediacenter/news/4chan-users-organize-ddosagainst-mpaa/
+54 : http://techcrunch.com/2010/09/19/riaa-attack/ 
+55 : https://torrentfreak.com/4chan-to-ddos-riaa-next-is-this-the-protest-of-thefuture-100919/
+56 : http://www.slyck.com/story2040_Your_Quick_Reference_Guide_to_Current_US_BitTorrent_Lawsuits 
+57 : http://www.theregister.co.uk/2009/05/12/davenport_lyons_acs_law/
+58 : https://web.archive.org/web/20110721060833/http://www.t3.com/news/law-firm-handsout-thousands-of-fines-to-suspected-digital-pirates?=42559
+59 : http://news.bbc.co.uk/1/hi/technology/8481790.stm
+60 : https://web.archive.org/web/20091216055249/http://beingthreatened.yolasite.com:80/press-index.php 
+61 : http://www.lawgazette.co.uk/opinion/letters/which-hunt
+62 : http://www.bbc.co.uk/news/technology-12275913
+63 : http://torrentfreak.com/wrongfully-accused-of-file-sharing-file-forharassment-100831/
+64 : https://web.archive.org/web/20160129200458/http://www.parliament.the-stationeryoffice.co.uk/pa/ld200910/ldhansrd/text/100126-0003.htm
+65 : http://www.theregister.co.uk/2010/09/22/acs_4chan/
+66 : http://arstechnica.com/tech-policy/news/2010/09/amounts-to-blackmail-inside-a-p2psettlement-letter-factory.ars
+67 : http://www.wired.co.uk/news/archive/2010-09/27/leaked-emails-fuel-anti-piracy-scandal
+68 : http://www.guardian.co.uk/technology/blog/2010/oct/01/acslaw-filesharing-accused
+69 : http://www.which.co.uk/news/2009/07/more-innocent-consumers-accused-of-filesharing--179504
+70 : http://www.bbc.co.uk/newsbeat/article/11430299/my-details-appeared-on-porn-list
+71 : https://torrentfreak.com/acslaw-gay-porn-letters-target-pensioners-marriedmen-100925/
+72 : http://www.theregister.co.uk/2008/04/08/church_of_scientology_contacts_wikileaks/
+73 : https://www.wikileaks.org/wiki/Sarah_Palin_Yahoo_account_2008
+74 : http://www.imdb.com/title/tt1799148/ 
+75 : http://www.wired.com/threatlevel/2010/06/leak/
+76 : https://web.archive.org/web/20100722020415/http://www.aolnews.com/nation/article/wikileaks-snitch-hacker-adrian-lamo-faces-wrath-of-his-peers/19562042 
+77 : http://213.251.145.96/cablegate.html
+78 : https://en.wikipedia.org/wiki/Reactions_to_the_United_States_diplomatic_cables_leak
+79 : http://www.bbc.co.uk/news/technology-11935539
+80 : http://www.nytimes.com/2010/12/06/world/europe/06wiki.html
+81 : http://www.theatlantic.com/technology/archive/2010/12/wikileaks-exposes-internetsdissent-tax-not-nerd-supremacy/68397/  
+82 : https://fr.wikipedia.org/wiki/R%C3%A9volution_am%C3%A9ricaine 
+83 : Commander X. Behind The Mask: An Inside Look At Anonymous. Lulu.com
+84 : http://www.washingtonpost.com/wp-dyn/content/article/2011/01/25/AR2011012502918.html   85 : http://www.cbc.ca/news/canada/story/2012/03/15/f-online-protest.html
+86 : http://switch.sjsu.edu/web/v4n2/stefan/
+87 : http://english.aljazeera.net/indepth/features/2011/01/20111614145839362.html
+88 : https://userscripts.org/scripts/show/94122
+89 : http://cryptoanarchy.org/wiki/Telecomix
+90 : https://www.youtube.com/watch?v=bilJ7lZtutQ
+91 : http://www.theatlantic.com/international/archive/2011/01/egyptian-activists-actionplan-translated/70388/
+92 : http://www.aljazeera.com/news/middleeast/2011/05/201151917634659824.html  
+93 : http://arstechnica.com/tech-policy/news/2011/02/how-one-security-firm-trackedanonymousand-paid-a-heavy-price.ars
+94 : http://english.aljazeera.net/indepth/opinion/2011/03/20113981026464808.html
+95 : https://www.nextinpact.com/archive/63924-sony-pictures-lulzsec-piratage-mots-depasse-vol-donnees.htm
+96 : http://www.tnr.com/blog/the-study/89997/hacking-fun-more-profit
+97 : http://arstechnica.com/tech-policy/news/2011/06/lulzsec-heres-why-we-hack-youbitches.ars 
+98 : http://www.independent.co.uk/news/world/americas/who-are-the-group-behind-thisweeks-cia-hack-2298430.html ; http://www.pcmag.com/article2/0,2817,2387219,00.asp
+99 : http://www.wired.com/threatlevel/2011/05/lulzsec/
+100 : http://www.guardian.co.uk/technology/blog/2011/jun/24/lulzsec-site-down-hackerjester ; http://www.computerandvideogames.com/308986/lulzsec-hacked-by-antihacking-group/
+101 : http://www.thesmokinggun.com/documents/internet/hackers-who-tried-sinklulz-boat-071289 ; http://sanfrancisco.ibtimes.com/articles/169577/20110625/lulzsec-sails-into-sunset-as-team-p0ison-terrorizes-internet-antisec-anti-security-anonymous-hacker.htm ; http://www.guardian.co.uk/technology/2011/jun/24/lulzsecirc-leak-the-full-record
+102 : http://www.nytimes.com/2010/12/04/world/europe/04domain.html
+103 : http://risky.biz/forum/why-we-secretly-love-lulzsec
+104 : http://www.passwordrandom.com/most-popular-passwords
+105 : http://owni.fr/2011/06/08/sur-les-traces-de-lulz-security-les-hackers-invisibles/
+106 : http://uk.ibtimes.com/articles/167639/20110622/lulzsec-lulz-security-anonymousoperation-anti-security-anti-sec-hacked-cleary-ryan-arrest-attack.htm
+107 : http://www.bbc.co.uk/news/technology-13912836
+108 : Inutile de faire un catalogue à la Prévert des attaques perpétrées dans le cadre de l’opération AntiSec : https://en.wikipedia.org/wiki/Operation_AntiSec
+109 : https://twitter.com/atopiary/status/94225773896015872
+110 : http://www.nytimes.com/2014/04/24/world/fbi-informant-is-tied-to-cyberattacksabroad.html
+111 : https://fr.wikipedia.org/wiki/Quatri%C3%A8me_pouvoir
+112 : https://www.theguardian.com/world/blog/2010/dec/03/julian-assange-wikileaks
+113 : https://www.theguardian.com/news/datablog/2010/nov/29/wikileaks-cables-data#data
+114 : http://owni.fr/2011/12/01/spy-files-interceptions-ecoutes-wikilleaks-qosmos-amesyslibye-syrie/
+115 : http://cryptome.org/0002/ja-conspiracies.pdf
+116 : http://www.hyperorg.com/blogger/2010/12/05/truth-is-not-enough/
+117 : https://zunguzungu.wordpress.com/2010/11/29/julian-assange-and-the-computerconspiracy-%E2%80%9Cto-destroy-this-invisible-government%E2%80%9D/ pour une analyse très complète.
+118 : http://gawker.com/5773533/julian-assange-my-enemies-are-all-jews-and-sissies
+119 : http://www.slate.com/blogs/the_slatest/2016/07/25/what_wikileaks_might_have_meant_by_that_anti_semitic_tweet.html 
+120 : https://www.rt.com/tags/the-julian-assange-show/
+121 : https://twitter.com/wikileaks/status/756206619860561920
+122 : http://rue89.nouvelobs.com/2016/07/22/wikileaks-menace-creer-twitter-apres-quuntroll-a-ete-banni-264749
+123 : http://www.newyorker.com/magazine/2010/06/07/no-secrets
+124 : https://voicerepublic.com/talks/reports-from-the-front L’intervention en question,  par Jacob Appelbaum, est à partir de 73 min 30 sec.
+125 : http://www.telerama.fr/monde/alan-rusbridger-du-guardian-wikileaks-a-instaure-un-nouveau-type-de-rapports-entre-journalisme-et-technologie,65785.php
+126 : http://owni.fr/2011/08/23/les-confusions-dun-dissident-de-wikileaks/
+127 : http://www.telerama.fr/medias/le-cinquieme-pouvoir-le-film-sur-wikileaks-est-ilconforme-a-la-realite-des-faits,105860.php
+128 : http://www.telerama.fr/medias/wikileaks-regle-ses-comptes-dans-undocumentaire,103930.php
+129 : Voir pour davantage de détails et des entretiens, l’e-book d’Olivier Tesquet publié en 2011 sur l’histoire de WikiLeaks http://shop.owni.fr/fr/41-la-veritable-histoire-de-wikileaks.html 
+130 : https://twitter.com/YourAnonNews/status/256194158971215872
+131 : http://pastebin.com/Juxb5M26
+132 : https://twitter.com/wikileaks/status/758781081072046080?ref_src=twsrc%5Etfw]
+133 : https://twitter.com/cyberrights/status/758390450009104385 
+134 : https://wikileaks.org/akp-emails/
+135 : http://www.reuters.com/article/us-turkey-security-wikileaks-idUSKCN1000H1 ; http:// www.numerama.com/politique/183868-la-turquie-bloque-wikileaks-pour-tenter-delimiter-les-revelations.html
+136 : https://twitter.com/wikileaks/status/755657280406822912
+137 : https://twitter.com/dasecho/status/755758522416128000
+138 : https://twitter.com/ragipsoylu/status/755513149663707137
+139 : https://twitter.com/ragipsoylu/status/755511448407801856
+140 : https://wikileaks.org/akp-emails/?q=&mfrom=akparti.org.tr&mto=&title=&notitle=&date_from=&date_to=&nofrom=&noto=&count=50&sort=0#searchresult 
+141 : https://wikileaks.org/akp-emails/emailid/31401
+142 : https://medium.com/@crymora/when-leaking-turns-into-dumping-61efcd20c96a#.ehbczztez  
+143 : https://glomardisclosure.com/2016/07/26/the-who-and-how-of-the-akp-hack-dumpand-wikileaks-release
+144 : http://www.huffingtonpost.com/zeynep-tufekci/wikileaks-erdogan-emails_b_11158792.html
+145 : https://twitter.com/zeynep/status/757712462925926401
+146 : https://twitter.com/zeynep/status/757754939640799234
+147 : https://twitter.com/zeynep/status/757750555015979008
+148 : https://twitter.com/misterlast/status/757754961191137280
+149 : https://bontchev.nlcv.bas.bg/index.html
+150 : https://github.com/bontchev/wlscrape/blob/master/malware.md
+151 : https://wikileaks.org/podesta-emails/
+152 : http://www.politifact.com/global-news/statements/2016/oct/16/mike-pence/did-qatarpromise-clinton-foundation-1-million-fiv/
+153 : http://www.nytimes.com/2016/07/27/us/politics/assange-timed-wikileaks-release-ofdemocratic-emails-to-harm-hillary-clinton.html?smid=tw-nytimes&smtyp=cur&_r=0
+154 : http://www.lemonde.fr/pixels/article/2016/07/25/le-parti-democrate-voit-la-main-dela-russie-derriere-la-publication-d-e-mails-par-wikileaks_4974501_4408996.html
+155 : http://rue89.nouvelobs.com/2016/10/31/maintenant-e-mails-clinton-entre-photosbites-265545 
+156 : https://twitter.com/RogerJStoneJr/status/782443074874138624
+157 :  http://www.telegraph.co.uk/news/uknews/law-and-order/11039528/Jui-lien-Assangesuffering-heart-condition-after-two-year-embassy-confinement-it-is-claimed.html ; http://www.ibtimes.co.uk/medical-woes-julian-assange-exhaustion-pain-likelydeteriorating-mental-state-1581689
+158 : http://www.nbcnews.com/politics/2016-election/wikileaks-fuels-conspiracy-theoriesabout-dnc-staffer-s-death-n627401
+159 : https://www.bloomberg.com/news/articles/2016-10-11/how-julian-assange-turned-wikileaks-into-trump-s-best-friend
+160 :  http://tempsreel.nouvelobs.com/rue89/rue89-politique/20161004.RUE3976/pour-ses10-ans-wikileaks-fait-une-conference-et-zero-revelation.html
+161 : https://twitter.com/KFILE/status/775110996071424001?ref_src=twsrc%5Etfw]
+162 : http://www.bloomberg.com/politics/articles/2016-10-08/clinton-refuses-to-disavowhacked-excerpts-from-paid-speeches ;  https://www.washingtonpost.com/news/post-politics/wp/2016/10/11/clinton-campaign-chairman-says-fbi-probing-criminal-hack-of-his-email/?postshare=3211476278016159%20&tid=ss_mail 
+163 : https://fr.scribd.com/document/28385794/Us-Intel-Wikileaks
+164 : http://www.salon.com/2010/12/15/manning_3/
+165 : http://www.nytimes.com/2010/10/24/world/24assange.html?pagewanted=all
+166 : http://www.washingtonpost.com/wp-dyn/content/article/2010/11/30/AR2010113001095.html
+167 : http://www.huffingtonpost.com/2010/12/07/fox-news-bob-beckel-calls_n_793467.html
+168 : http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden
+169 : http://www.bbc.co.uk/news/world-us-canada-11856122
+170 : http://media.washingtonpost.com/wp-srv/politics/documents/Dept_of_State_Assange_letter.pdf 
+171 : https://www.bloomberg.com/news/articles/2016-10-11/how-julian-assange-turnedwikileaks-into-trump-s-best-friend
+172 : http://pastebin.com/Juxb5M26
+173 : http://www.nytimes.com/2016/08/08/opinion/can-we-trust-julian-assange-andwikileaks.html 
+
+
+
+03. Le darknet : des mots et des maux
+1 : http://lci.tf1.fr/france/societe/bernard-debre-lr-en-guerre-contre-la-vente-dedrogues-sur-internet-8755720.html  
+2 : https://web.archive.org/web/20150325025545/http://darknet.se/about-darknet/  
+3 : http://www.cs.virginia.edu/~cs757/slidespdf/757-09-overlay.pdf
+4 : https://freenetproject.org/ 
+5 : http://msl1.mit.edu/ESD10/docs/darknet5.pdf 
+6 : https://fr.wikipedia.org/wiki/Gestion_des_droits_num%C3%A9riques  
+7 : Darknet: Hollywood’s War Against the Digital Generation (JD Lasica, 2005) en parle en des termes plus accessibles. Voir http://www.m21editions.com/fr/darknet.shtml 
+8 : https://www.torproject.org/  
+9 : https://www.torproject.org/docs/faq#HideExits  
+10 : Roger Dingledine, Nick Mathewson, Paul Syverson. Tor: The Second-Generation Onion Router. http://www.onion-router.net/Publications/tor-design.pdf  
+11 : http://www.themonthly.com.au/issue/2011/march/1324265093/robert-manne/cypherpunk-revolutionary  
+12 : https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard  
+13 : Chaum, D. L. (1981). Untraceable electronic mail, return addresses, and digital pseudonyms. Communications of the ACM. 24 (2): 84–90. doi:10.1145/358549.358563. 
+14 : Chaum, David (1983). Blind signatures for untraceable payments. Advances in Cryptology Proceedings of Crypto. 82 (3): 199–203. doi:10.1007/978-1-4757-0602-4_18. 
+15 : https://fr.wikipedia.org/wiki/Crypto_Wars#.C3.88re_de_l.27ordinateur_personnel 
+16 : Zimmermann, Philip (1995). “PGP Source Code and Internals”. MIT Press. ISBN 0-26224039-4. 
+17 : https://www.theguardian.com/uk-news/2015/jan/12/david-cameron-pledges-antiterror-law-internet-paris-attacks-nick-clegg  
+18 : http://www.nytimes.com/2015/11/17/us/after-paris-attacks-cia-director-rekindles-debate-over-surveillance.html?ref=world&_r=0  
+19 : https://nonblocking.info/liberte-egalite-tcpip/
+20 : https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032655328&cidTexte=LEGITEXT000006071154 
+21 : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029754374&categorieLien=id 
+22 : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032627231&categorieLien=id 
+23 : http://www.activism.net/cypherpunk/manifesto.html, Eric Hughes, 1993. 
+24 : McCullagh, Declan (2001-04-09). Cypherpunk’s Free Speech Defense. Wired. 
+25 : http://www.forbes.com/forbes/1999/1101/6411390a.html  
+26 : https://www.bloomberg.com/news/articles/2015-09-17/bitcoin-is-officially-acommodity-according-to-u-s-regulator 
+27 : http://blogs.wsj.com/digits/2015/10/22/eu-rules-bitcoin-is-a-currency-not-acommodity-virtually/  
+28 : https://www.cryptocoincharts.info/coins/info  
+29 : https://theinternetofmoney.org
+30 : http://www.forbes.com/sites/laurashin/2016/07/14/this-man-traveled-around-theworld-for-18-months-spending-only-bitcoin/#10a2b9c6261e  
+31 : https://www.saveonsend.com/blog/western-union-money-transfer/  
+32 : https://www.saveonsend.com/blog/bitcoin-money-transfer/  
+33 : https://web.archive.org/web/20131210164404/http://www.nytimes.com/2013/11/27/opinion/much-ado-about-bitcoin.html?_r=0  
+34 : http://www.papergeek.fr/dark-web-et-deep-web-quelles-differences-et-comment-yacceder-2963  
+35 : https://www.youtube.com/watch?v=r0l2FPRoGp8 
+36 : http://Citazine.fr/article/jour-j-ai-plonge-dans-deep-web 
+37 : https://i.imgur.com/vvXru.png  
+38 : http://junkee.com/the-best-unsolved-mysteries-on-the-internet/35874/3  
+39 : https://www.youtube.com/watch?v=KztcytZSB-Q  
+40 : http://searchformarianasweb.tumblr.com/
+41 : http://www.papergeek.fr/dark-web-et-deep-web-quelles-differences-et-comment-yacceder-2963  42 : https://torflow.uncharted.software/#?ML=18.017578125,42.94033923363181,3 
+43 : https://metrics.torproject.org/hidserv-rend-relayed-cells.html 
+44 : https://research.torproject.org/techreports/extrapolating-hidserv-stats-2015-01-31.pdf 
+45 : https://terbiumlabs.com/darkwebstudy.html 
+46 : http://www.tandfonline.com/doi/abs/10.1080/00396338.2016.1142085  
+47 : http://thebotnet.com/guides-and-tutorials/49828-how-to-access-the-hidden-wiki/ ; http://wordswithmeaning.org/special-you-know-nothing-of-the-internet-exploring-thedeep-web-confessions-from-an-investigator/  
+48 : https://www.reddit.com/r/deepweb/comments/3iayfx/are_red_rooms_real/
+49 : https://www.youtube.com/watch?v=aDvRZw9EMWo ; un YouTubeur nommé CreepyPasta en est également très friand. 
+50 : https://www.reddit.com/r/deepweb/comments/3irkmp/isis_redroom_megathread/ 
+51 : https://www.reddit.com/r/deepweb/comments/3ittf5/was_isis_redroom_a_honeypot/  
+52 : https://www.reddit.com/r/deepweb/comments/3j0cz5/psa_do_not_go_to_that_new_isis_redroom_site_the/  
+53 : https://www.torproject.org/docs/faq#WhySlow 
+54 : Une discussion intéressante et sensée dans cette vidéo : https://youtu.be/K47o2EgUIJU 
+55 : http://www.abc.net.au/7.30/content/2015/s4300786.htm 
+56 : http://www.theage.com.au/victoria/melbourne-hurtcore-paedophile-master-matthew-graham-pleads-guilty-20150908-gjht6d.html 
+57 : http://www.theage.com.au/victoria/how-matthew-david-grahams-hurtcorepaedophile-habit-began-on-the-dark-web-20150908-gjhz43.html ; https://www.deepdotweb.com/2016/03/23/child-porn-website-admin-matthew-david-graham-jailed15-years/ 
+58 : http://www.theage.com.au/victoria/australias-throwaway-children-20150903-gje3fq.html 
+59 : http://www.9news.com.au/national/2015/03/16/02/19/tracking-the-australian-manallegedly-responsible-for-horrific-child-sexual-abuse  
+60 : http://www.snopes.com/horrors/madmen/snuff.asp  
+61 : http://www.aljazeera.com/indepth/features/2016/10/dark-trade-rape-videos-saleindia-161023124250022.html 
+62 : https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-witha-pedo-site-owner/  
+63 : https://www.deepdotweb.com/clarification-cancelled-interview/ 
+64 : http://www.bbc.com/news/technology-27885502  
+65 : http://www.dailydot.com/crime/iowa-woman-craigslist-killer-father-schmidt/
+66 : http://www.cbsnews.com/news/facebook-murder-for-hire-plot-pa-teen-corey-adamsadmits-he-used-site-to-go-after-rape-accuser/  
+67 : http://abcnews.go.com/US/ohio-facebook-murder-fur-hire-plot/story?id=15765843  
+68 : http://www.dailydot.com/crime/deep-web-murder-assassination-contract-killer/ 
+69 : https://en.wikipedia.org/wiki/Assassination_market  
+70 : http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassinationmarket-creator-whos-crowdfunding-murder-with-bitcoins/ 
+71 : Pour le trafic d’êtres humains, voir par exemple ce billet de Deku-Shrub http://pirate.london/2015/11/human-hunting-on-the-internet-also-not-a-real-thing/  
+72 : https://en.wikipedia.org/wiki/Albanian_mafia#Besa 
+73 : http://www.hire-a-hitman.com/hire-a-hitman/  
+74 : https://allthingsvice.com/2016/05/18/ugly-kids-are-cheaper-the-besa-files/  
+75 : Si vous vous y intéressez, mais ne savez pas trop qui raconte des choses sensées, une personne-ressource précieuse est Deku-shrub https://www.reddit.com/user/Dekushrub  
+76 : https://www.reddit.com/r/deepweb/comments/4d70hh/how_to_improve_rdeepweb/  
+77 : https://np.reddit.com/r/legaladvice/comments/5lpdd8/scammed_out_of_firearm_purchase/ 
+78 : http://motherboard.vice.com/blog/darknet-touring-the-hidden-internets-illegalmarkets  
+79 : http://motherboard.vice.com/read/the-fbis-deep-web-raid-seized-a-bunch-of-fakesites  
+80 : http://www.afp.gov.au/media-centre/news/afp/2015/may/four-australians-charged-ininternational-illegal-firearm-sting 
+81 : https://www.deepdotweb.com/2015/07/07/agora-market-to-stop-listing-lethal-weapons/  
+82 : http://www.focus.de/kultur/kino_tv/tv-kolumne-beckmann-beckmann-willkalaschnikow-im-darknet-kaufen-doch-das-experiment-geht-schief_id_5542330.html
+83 : https://www.deepdotweb.com/2016/05/20/german-tv-show-gets-scammed-trying-buyak47-darknet/  
+84 : https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market ; https://www.reddit.com/user/TheRealDealMarket  
+85 : https://www.reddit.com/r/BlackBank/comments/359oym/blackbank_service_under_ddos/ 
+86 : http://www.deepdotweb.com/2015/05/31/meet-the-market-admin-who-wasresponsible-for-the-ddos-attacks/  
+87 : http://www.deepdotweb.com/wp-content/uploads/2015/05/exit2.png 
+88 : https://www.fbi.gov/news/stories/2015/july/cyber-criminal-forum-taken-down/cybercriminal-forum-taken-down ; voir aussi https://www.malwaretech.com/2015/07/darkode-returns-following-internationa.html 
+89 : https://darkode.cc//  
+90 : Une histoire détaillée https://www.deepdotweb.com/2015/07/20/darkode-extendedbackground-story/
+91 : B. Dupont, A.-M. Côté, C. Savine et D. Décary-Hétu (2016), “The ecology of trust among hackers”, Global Crime, DOI: 10.1080/17440572.2016.1157480  
+92 : https://twitter.com/Xylit0l
+93 : https://krebsonsecurity.com/2015/06/opms-database-for-sale-nope-it-came-fromanother-us-gov/
+94 : http://money.cnn.com/2015/05/22/technology/adult-friendfinder-hacked/ ; déclaration du site compromis : http://ffn.com/security-updates/
+95 : https://teksecurityblog.com/hacked-how-safe-is-your-data-on-adult-social-sites/
+96 : https://www.cnet.com/news/facebook-chief-security-officer-alex-stamos-websummit-lisbon-hackers/
+97 : https://nakedsecurity.sophos.com/2016/11/11/facebook-is-buying-up-stolen-passwordson-the-black-market/
+98 : http://www.informationsecuritybuzz.com/expert-comments/facebook-buying-backstolen-passwords-dark-web/
+99 : http://www.csoonline.com/article/3142404/security/security-experts-divided-onethics-of-facebooks-password-purchases.html
+100 : http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-french-underground.pdf 
+101 : http://www.darkcomet-rat.com/  
+102 : http://www.ibtimes.co.uk/bitcoin-tumbler-business-covering-tracks-worldcryptocurrency-laundering-1487480 
+103 : https://www.ctc.usma.edu/posts/financing-terror-bit-by-bit 
+104 : https://www.baselgovernance.org/news/global-conference-countering-moneylaundering-and-digital-currencies 
+105 : http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-french-underground.pdf 
+106 : https://darknetmarkets.co/french-deep-web-market/
+107 : https://www.deepdotweb.com/marketplace-directory/listing/french-dark-net/ 
+108 : http://blog.trendmicro.com/trendlabs-security-intelligence/the-french-dark-net-islooking-for-grammar-police/ 
+109 : http://www.vocativ.com/393689/war-on-drugs-human-rights-violation/  
+110 : http://www.shroomery.org/forums/showflat.php/Number/13860995 
+111 : https://www.youtube.com/user/ohyeaross 
+112 : http://austincut.com/2012/01/silk-road-a-vicious-blow-to-the-war-on-drugs/  
+113 : http://stackoverflow.com/questions/15445285/how-can-i-connect-to-a-tor-hiddenservice-using-curl-in-php 
+114 : https://www.cs.columbia.edu/~smb/UlbrichtCriminalComplaint.pdf 
+115 : http://arstechnica.com/tech-policy/2013/10/feds-silkroad-boss-paid-80000-for-snitchsmurder-and-torture/ 
+116 : Les échanges ayant mené à cette prétendue commande d’assassinat : http://arstechnica.com/tech-policy/2015/02/the-hitman-scam-dread-pirate-roberts-bizarre-murder-for-hireattempts/ 
+117 : https://www.theguardian.com/technology/2013/nov/21/silk-road-founder-held-without-bail
+118 : http://www.dailydot.com/crime/silk-road-murder-charges-ross-ulbricht/  
+119 : https://www.wired.com/2016/10/judges-question-ulbrichts-life-sentence-silk-roadappeal/  
+120 : https://www.deepdotweb.com/2017/01/08/ross-ulbricht-legal-defense-fund-hacked/
+121 : http://arstechnica.com/tech-policy/2016/02/prosecutors-say-corrupt-silk-road-agenthas-co-conspirators-at-large/ ; http://arstechnica.com/tech-policy/2016/08/stealingbitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/
+122 : http://arstechnica.com/tech-policy/2016/09/exclusive-our-thai-prison-interview-withan-alleged-top-advisor-to-silk-road/  
+123 : http://www.thecrimson.com/article/2013/12/16/unconfirmed-reports-explosives-fourbuildings/  
+124 : http://www.thecrimson.com/article/2013/12/17/student-charged-bomb-threat/  
+125 : http://cbsboston.files.wordpress.com/2013/12/kimeldoharvard.pdf  
+126 : https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf 
+127 : https://motherboard.vice.com/read/this-researcher-is-hunting-down-ip-addresses-ofdark-web-sites
+128 : https://motherboard.vice.com/read/some-dark-web-markets-have-better-usersecurity-than-gmail-instagram 
+129 : https://mascherari.press/onionscan-report-this-one-weird-trick-can-revealinformation-from-25-of-the-dark-web-2/  
+130 : http://www.wired.co.uk/article/anonymous-targets-paedophiles 
+131 : https://www.deepdotweb.com/2017/02/09/anonymous-hacks-freedom-hosting-iibringing-almost-20-active-darknet-sites/  
+132 : https://www.wired.com/2014/01/tormail/  
+133 : http://www.forbes.com/sites/runasandvik/2014/01/31/the-email-service-the-dark-webis-actually-using/#402044448410  
+134 : http://motherboard.vice.com/read/the-dark-webs-biggest-market-is-going-to-stopselling-guns  
+135 : http://motherboard.vice.com/read/tip-if-youre-selling-guns-on-the-dark-web-dontget-your-prints-on-them 
+136 : http://arstechnica.com/business/2013/11/just-a-month-after-shutdown-silk-road-2-0emerges/  
+137 : http://arstechnica.com/tech-policy/2014/11/silk-road-2-0-infiltrated-from-the-startsold-8m-per-month-in-drugs/ 
+138 : https://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-wassubpoenaed-by-feds  Ces données ont permis d’inculper un Écossais http://www.edinburghnews.scotsman.com/news/crime/fbi-helps-catch-edinburgh-man-sellingdrugs-on-dark-web-1-4139454 
+139 : https://motherboard.vice.com/read/how-the-fbi-identified-suspects-behind-the-darkwebs-largest-child-porn-site-playpen
+140 : http://www.wired.com/2009/04/fbi-spyware-pro/
+141 : http://www.reuters.com/article/us-usa-crime-childporn-idUSKCN0PI2CH20150708  
+142 : http://www.nytimes.com/roomfordebate/2016/01/27/the-ethics-of-a-child-pornographysting  
+143 : https://www.eff.org/deeplinks/2016/06/federal-court-fourth-amendment-does-notprotect-your-home-computer 
+144 : http://www.nytimes.com/2015/12/27/business/dealbook/the-unsung-tax-agent-whoput-a-face-on-the-silk-road.html
+145 : https://motherboard.vice.com/read/the-google-search-that-took-down-ross-ulbricht
+146 : http://antilop.cc/sr/#jones  
+147 : https://motherboard.vice.com/read/fbi-says-suspected-silk-road-architect-varietyjones-has-been-arrested
